@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tKPK6RbRGlKWghtg/hGmOSCrTuP+KyKP9BjpNU1Q6Sen1MteOGzRvOQLPa24vUtTgEeLlc9e4MCrjXM4pflTkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\majda\\OneDrive\\Desktop\\derslerim\\nesneye\\oopfinal2222222\\oopfinal2222222\\oopfinal2222222.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\majda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\majda\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\majda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\majda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
